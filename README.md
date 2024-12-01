@@ -1,4 +1,4 @@
-# 🚑 MediTrack Ambulance Assistant Web App
+# 🚑 MediTrack Emergency  Assistant Web App
 
 This is a web application designed to assist doctors in managing the treatment of several patients belonging to the 25 ambulances allotted to them using data such as patient vitals, accessing medical documents, and communicating with Emergency Medical Technicians (EMTs) for critical cases.
 
